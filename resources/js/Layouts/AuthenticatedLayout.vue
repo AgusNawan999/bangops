@@ -11,7 +11,7 @@
             C
           </div>
           <div>
-            <h1 class="text-base font-bold tracking-wider text-white leading-none">CRIST OPS</h1>
+            <h1 class="text-base font-bold tracking-wider text-white leading-none">PERWIRA SECURYTY</h1>
             <span class="text-[10px] text-slate-500 font-mono font-bold tracking-wider">OPERATIONS PLATFORM</span>
           </div>
         </div>
