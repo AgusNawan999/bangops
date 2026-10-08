@@ -4,7 +4,7 @@
     <!-- Welcome Banner -->
     <div class="p-6 bg-gradient-to-r from-indigo-900/40 to-slate-800/40 border border-indigo-500/20 rounded-2xl">
       <h3 class="text-2xl font-extrabold text-white">Halo, {{ user()?.name }}! 👋</h3>
-      <p class="text-slate-400 text-sm mt-1">Selamat datang di platform CRIST. Hak akses akun dan menu navigasi Anda terintegrasi secara real-time.</p>
+      <p class="text-slate-400 text-sm mt-1">Selamat datang di platform PERWIRA SECURYTY. Hak akses akun dan menu navigasi Anda terintegrasi secara real-time.</p>
     </div>
 
     <!-- Profile Detail Cards -->
